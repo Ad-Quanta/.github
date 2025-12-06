@@ -1,6 +1,6 @@
 # Welcome to AdQuanta 🚀
 
-[![Website](https://img.shields.io/badge/website-adquanta.com-blue)](https://adquanta.com)
+[![Website](https://img.shields.io/badge/website-adquanta.com-blue)](https://www.adquanta.io)
 [![Twitter](https://img.shields.io/badge/twitter-@adquanta-blue)](https://twitter.com/adquanta)
 
 AdQuanta is a technology-focused organization building **Martech Solutions** for developers and businesses.
